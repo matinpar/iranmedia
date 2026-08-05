@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "id": "welcome-v1",
+  "type": "banner",
+  "priority": "normal",
+  "title": {
+    "fa": "کانال رسمی Matin VPN",
+    "en": "Official Matin VPN channel",
+    "tr": "Resmî Matin VPN kanalı",
+    "ckb": "کەناڵی فەرمی Matin VPN"
+  },
+  "message": {
+    "fa": "برای دریافت خبرها و نسخه‌های جدید به کانال تلگرام بپیوندید.",
+    "en": "Join our Telegram channel for news and new releases.",
+    "tr": "Haberler ve yeni sürümler için Telegram kanalımıza katılın.",
+    "ckb": "بۆ هەواڵ و وەشانە نوێکان بە کەناڵی تێلەگرامەکەمان پەیوەست بن."
+  },
+  "image_url": "https://raw.githubusercontent.com/matinpar/iranmedia/main/banner-v1.jpg",
+  "action_label": {
+    "fa": "مشاهده کانال",
+    "en": "Open channel",
+    "tr": "Kanalı aç",
+    "ckb": "کردنەوەی کەناڵ"
+  },
+  "action_url": "https://t.me/matinvpnapp",
+  "dismissible": true,
+  "show_once": false,
+  "display_seconds": 10,
+  "min_app_version": "5.0.0"
+}
