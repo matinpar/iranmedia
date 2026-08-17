@@ -1124,8 +1124,19 @@
 
     /* ------- پشتیبان‌گیری ------- */
     'export': function () {
+      var payload = JSON.stringify(DB, null, 2);
+      var fname = 'sarkar-backup-' + today() + '.json';
+      /* در نسخهٔ اندروید (APK) فایل مستقیم در Downloads ذخیره می‌شه */
+      if (window.SarkarAndroid && typeof window.SarkarAndroid.saveFile === 'function') {
+        try {
+          var b64 = btoa(unescape(encodeURIComponent(payload)));
+          var msg = window.SarkarAndroid.saveFile(fname, b64);
+          toast(msg || 'ذخیره شد ✓');
+        } catch (e) { toast('ذخیرهٔ فایل ممکن نشد ✗'); }
+        return;
+      }
       try {
-        var blob = new Blob([JSON.stringify(DB, null, 2)], { type: 'application/json' });
+        var blob = new Blob([payload], { type: 'application/json' });
         var url = URL.createObjectURL(blob);
         var a = document.createElement('a');
         a.href = url;

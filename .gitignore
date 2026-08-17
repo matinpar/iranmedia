@@ -1,0 +1,12 @@
+# ابزارهای سنگین ساخت (با build.sh دوباره قابل دریافت‌اند)
+android/tools/apktool.jar
+android/tools/venv/
+android/tools/apksig-src/
+android/tools/apkbuild/
+# خروجی میانی
+android/unsigned.apk
+android/project/assets/www/
+android/project/build/
+android/project/dist/
+__pycache__/
+*.pyc
