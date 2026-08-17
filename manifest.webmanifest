@@ -1,0 +1,18 @@
+{
+  "name": "سرکار — دفتر کار عراق",
+  "short_name": "سرکار",
+  "description": "مدیریت آفلاین روزهای کاری در عراق: شمارش روزهای اقامت، حقوق و اضافه‌کاری، تقویم شمسی و میلادی، بدهی و مرخصی",
+  "dir": "rtl",
+  "lang": "fa",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
