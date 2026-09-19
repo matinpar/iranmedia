@@ -1,0 +1,64 @@
+{
+  "enabled": true,
+  "notifications": [
+    {
+      "id": "new-version-available-01",
+      "priority": "important",
+      "published_at": "2026-09-19T00:00:00Z",
+      "title": {
+        "fa": "نسخه جدید موجود است",
+        "en": "A new version is available",
+        "tr": "Yeni sürüm mevcut",
+        "ckb": "وەشانی نوێ بەردەستە"
+      },
+      "summary": {
+        "fa": "نسخه جدید Matin VPN منتشر شده است.",
+        "en": "A new version of Matin VPN has been released.",
+        "tr": "Matin VPN'in yeni sürümü yayınlandı.",
+        "ckb": "وەشانی نوێی Matin VPN بڵاوکراوەتەوە."
+      },
+      "body": {
+        "fa": "نسخه جدید Matin VPN موجود است. برای دریافت آخرین امکانات و بهبودها، برنامه را به‌روزرسانی کنید.",
+        "en": "A new version of Matin VPN is available. Update the app to get the latest features and improvements.",
+        "tr": "Matin VPN'in yeni sürümü mevcut. En yeni özellikleri ve iyileştirmeleri almak için uygulamayı güncelleyin.",
+        "ckb": "وەشانی نوێی Matin VPN بەردەستە. بەرنامەکە نوێ بکەرەوە بۆ وەرگرتنی تایبەتمەندی و باشترکردنە نوێکان."
+      }
+    },
+    {
+      "id": "welcome-notification-01",
+      "priority": "important",
+      "published_at": "2026-08-05T00:00:00Z",
+      "min_app_version": "5.17.0",
+      "title": {
+        "fa": "به اعلانات Matin VPN خوش آمدید",
+        "en": "Welcome to Matin VPN notifications",
+        "tr": "Matin VPN bildirimlerine hoş geldiniz",
+        "ckb": "بەخێربێیت بۆ ئاگادارکردنەوەکانی Matin VPN"
+      },
+      "summary": {
+        "fa": "از این بخش خبرها و پیام‌های مهم برنامه را دریافت می‌کنید.",
+        "en": "Receive important app news and messages here.",
+        "tr": "Önemli uygulama haberlerini ve mesajlarını burada alın.",
+        "ckb": "هەواڵ و پەیامە گرنگەکانی بەرنامە لێرە وەربگرە."
+      },
+      "body": {
+        "fa": "از این به بعد خبر انتشار نسخه‌های جدید، تغییرات مهم و اطلاعیه‌های Matin VPN در بخش اعلانات برنامه نمایش داده می‌شود.\n\nبرای دریافت سریع‌تر خبرها می‌توانید کانال رسمی تلگرام را نیز دنبال کنید.",
+        "en": "New releases, important changes, and Matin VPN announcements will now appear in the app notification center.\n\nYou can also follow the official Telegram channel for faster updates.",
+        "tr": "Yeni sürümler, önemli değişiklikler ve Matin VPN duyuruları artık uygulamanın bildirim merkezinde görünecek.\n\nDaha hızlı haber almak için resmî Telegram kanalını da takip edebilirsiniz.",
+        "ckb": "لە ئێستاوە هەواڵی وەشانە نوێکان، گۆڕانکاری گرنگ و ڕاگەیاندنەکانی Matin VPN لە بەشی ئاگادارکردنەوەکان دەردەکەون.\n\nبۆ وەرگرتنی خێراتری هەواڵەکان دەتوانیت کەناڵی فەرمی تێلەگرامیش بەدواداچوون بکەیت."
+      },
+      "image_url": "https://raw.githubusercontent.com/matinpar/iranmedia/main/ad-full-v1.jpg",
+      "links": [
+        {
+          "label": {
+            "fa": "مشاهده کانال تلگرام",
+            "en": "Open Telegram channel",
+            "tr": "Telegram kanalını aç",
+            "ckb": "کردنەوەی کەناڵی تێلەگرام"
+          },
+          "url": "https://t.me/matinvpnapp"
+        }
+      ]
+    }
+  ]
+}
