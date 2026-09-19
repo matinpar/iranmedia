@@ -2,6 +2,40 @@
   "enabled": true,
   "notifications": [
     {
+      "id": "server-purchase-gazarvpn-01",
+      "priority": "important",
+      "published_at": "2026-09-19T20:10:00Z",
+      "title": {
+        "fa": "خرید سرور",
+        "en": "Server purchase",
+        "tr": "Sunucu satın alma",
+        "ckb": "کڕینی سێرڤەر"
+      },
+      "summary": {
+        "fa": "برای خرید سرور به Gazarvpn در تلگرام مراجعه کنید.",
+        "en": "For server purchases, contact Gazarvpn on Telegram.",
+        "tr": "Sunucu satın almak için Telegram'da Gazarvpn'e ulaşın.",
+        "ckb": "بۆ کڕینی سێرڤەر لە تێلەگرام پەیوەندی بە Gazarvpn بکە."
+      },
+      "body": {
+        "fa": "برای خرید سرور به @Gazarvpn در تلگرام مراجعه کنید.",
+        "en": "For server purchases, contact @Gazarvpn on Telegram.",
+        "tr": "Sunucu satın almak için Telegram'da @Gazarvpn ile iletişime geçin.",
+        "ckb": "بۆ کڕینی سێرڤەر لە تێلەگرام پەیوەندی بە @Gazarvpn بکە."
+      },
+      "links": [
+        {
+          "label": {
+            "fa": "مراجعه در تلگرام",
+            "en": "Open Telegram",
+            "tr": "Telegram'ı aç",
+            "ckb": "کردنەوەی تێلەگرام"
+          },
+          "url": "https://t.me/Gazarvpn"
+        }
+      ]
+    },
+    {
       "id": "new-version-available-01",
       "priority": "important",
       "published_at": "2026-09-19T00:00:00Z",
