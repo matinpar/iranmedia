@@ -10,14 +10,14 @@
     "ckb": "ڕیکلامی تایبەتی Matin VPN"
   },
   "message": {
-    "fa": "برای ادامه ی تبلیغ به ایدی @matinparc مراجعه فرمایید",
+    "fa": "اینترنت آزاد، سریع و امن؛ با Matin VPN همیشه وصل بمان.",
     "en": "Open the official channel for news, promotions, and new releases.",
     "tr": "Haberler, kampanyalar ve yeni sürümler için resmî kanalı açın.",
     "ckb": "بۆ هەواڵ و ڕیکلام و وەشانە نوێکان، کەناڵی فەرمی ببینە."
   },
   "image_url": "https://raw.githubusercontent.com/matinpar/iranmedia/main/ad-full-v1.jpg",
   "action_label": {
-    "fa": "مشاهده کانال",
+    "fa": "ادامه در @matinparc",
     "en": "Open channel",
     "tr": "Kanalı aç",
     "ckb": "کردنەوەی کەناڵ"
