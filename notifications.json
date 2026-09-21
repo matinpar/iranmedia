@@ -2,24 +2,24 @@
   "enabled": true,
   "notifications": [
     {
-      "id": "iranmedia-free-iranian-series-fa-02",
+      "id": "server-purchase-gazarvpn-fa-02",
       "priority": "important",
       "published_at": "2026-09-20T00:00:00Z",
       "title": {
-        "fa": "سریال‌های رایگان ایرانی"
+        "fa": "خرید سرور"
       },
       "summary": {
-        "fa": "برای مشاهده‌ی سریال‌های رایگان ایرانی در کانال ایران مدیا عضو شوید."
+        "fa": "برای خرید سرور به ایدی @Gazarvpn در تلگرام مراجعه کنید."
       },
       "body": {
-        "fa": "برای مشاهده‌ی سریال‌های رایگان ایرانی در کانال ایران مدیا عضو شوید.\n\n@iran_mediat"
+        "fa": "برای خرید سرور، در تلگرام به ایدی @Gazarvpn مراجعه کنید."
       },
       "links": [
         {
           "label": {
-            "fa": "عضویت در کانال تلگرام"
+            "fa": "مراجعه در تلگرام"
           },
-          "url": "https://t.me/iran_mediat"
+          "url": "https://t.me/Gazarvpn"
         }
       ]
     }
