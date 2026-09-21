@@ -2,34 +2,22 @@
   "enabled": true,
   "notifications": [
     {
-      "id": "iranmedia-free-iranian-series-01",
+      "id": "iranmedia-free-iranian-series-fa-02",
       "priority": "important",
-      "published_at": "2026-09-21T03:30:00Z",
+      "published_at": "2026-09-20T00:00:00Z",
       "title": {
-        "fa": "سریال‌های رایگان ایرانی",
-        "en": "Free Iranian series",
-        "tr": "Ücretsiz İran dizileri",
-        "ckb": "زنجیرە دراماکانی ئێرانی بەخۆڕایی"
+        "fa": "سریال‌های رایگان ایرانی"
       },
       "summary": {
-        "fa": "برای مشاهده سریال‌های رایگان ایرانی عضو کانال ایران مدیا شوید.",
-        "en": "Join the Iran Media channel to watch free Iranian series.",
-        "tr": "Ücretsiz İran dizilerini izlemek için Iran Media kanalına katılın.",
-        "ckb": "بۆ بینینی زنجیرە دراماکانی ئێرانی بەخۆڕایی، بەشداری کەناڵی Iran Media ببە."
+        "fa": "برای مشاهده‌ی سریال‌های رایگان ایرانی در کانال ایران مدیا عضو شوید."
       },
       "body": {
-        "fa": "برای مشاهده‌ی سریال‌های رایگان ایرانی در کانال ایران مدیا عضو شوید.\n\n@iran_mediat",
-        "en": "Join the Iran Media channel to watch free Iranian series.\n\n@iran_mediat",
-        "tr": "Ücretsiz İran dizilerini izlemek için Iran Media kanalına katılın.\n\n@iran_mediat",
-        "ckb": "بۆ بینینی زنجیرە دراماکانی ئێرانی بەخۆڕایی، بەشداری کەناڵی Iran Media ببە.\n\n@iran_mediat"
+        "fa": "برای مشاهده‌ی سریال‌های رایگان ایرانی در کانال ایران مدیا عضو شوید.\n\n@iran_mediat"
       },
       "links": [
         {
           "label": {
-            "fa": "عضویت در کانال تلگرام",
-            "en": "Join Telegram channel",
-            "tr": "Telegram kanalına katıl",
-            "ckb": "بەشداری کەناڵی تێلەگرام ببە"
+            "fa": "عضویت در کانال تلگرام"
           },
           "url": "https://t.me/iran_mediat"
         }
