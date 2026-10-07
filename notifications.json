@@ -44,6 +44,20 @@
           "url": "https://t.me/iran_mediat"
         }
       ]
+    },
+    {
+      "id": "matin-vpn-app-fa-04",
+      "priority": "important",
+      "published_at": "2026-10-07T05:00:00Z",
+      "title": {
+        "fa": "با Matin VPN آنلاین بمانید"
+      },
+      "summary": {
+        "fa": "با Matin VPN اینترنت را ساده‌تر، سریع‌تر و امن‌تر تجربه کنید."
+      },
+      "body": {
+        "fa": "با Matin VPN تجربه‌ای روان‌تر و امن‌تر از اینترنت داشته باشید. برنامه را باز کنید و از اتصال خود لذت ببرید."
+      }
     }
   ]
 }
